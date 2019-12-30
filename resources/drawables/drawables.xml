@@ -1,0 +1,5 @@
+<drawables>
+    <bitmap id="LauncherIcon" filename="launcher_icon.png" />
+    <bitmap id="TheMakersLogo" filename="themakers-logo.png" />
+    <bitmap id="TheMakersLogo2" filename="themakers-logo-2.png" />
+</drawables>

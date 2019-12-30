@@ -1,0 +1,24 @@
+<layout id="WatchFace">
+    <drawable class="BackgroundDrawable" />
+    <bitmap id="Logo" x="center" y="center" filename="../drawables/themakers-logo-2.png" />
+    <label id="WeekdayLabel"
+    	x="320" y="85"
+    	font="@Fonts.Gupter32"
+    	justification="Graphics.TEXT_JUSTIFY_RIGHT"
+    	color="Graphics.COLOR_WHITE" />
+    <label id="DateLabel"
+    	x="320" y="115"
+    	font="@Fonts.Gupter32"
+    	justification="Graphics.TEXT_JUSTIFY_RIGHT"
+    	color="Graphics.COLOR_WHITE" />
+    <label id="TimeLabel"
+    	x="320" y="145"
+    	font="@Fonts.Gupter70"
+    	justification="Graphics.TEXT_JUSTIFY_RIGHT"
+    	color="Graphics.COLOR_WHITE" />
+    <label id="SecondsLabel"
+    	x="320" y="215"
+    	font="@Fonts.Gupter32"
+    	justification="Graphics.TEXT_JUSTIFY_RIGHT"
+    	color="Graphics.COLOR_WHITE" />
+</layout>
